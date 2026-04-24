@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008000&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**VictorO04/VictorO04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi! I am Victor Ferreira de Oliveira</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Systems Development student at SENAI<br>
+  Valinhos, São Paulo, Brazil
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,c,html,css" alt="My Skills" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,postgresql,linux" alt="My Skills" />
+  </a>
+</p>
